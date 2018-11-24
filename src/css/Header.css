@@ -1,0 +1,16 @@
+.justify-content-end {
+	color: white;
+}
+
+.a {
+	color: white;
+}
+
+.a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+li {
+	padding-right: 6px;
+}
