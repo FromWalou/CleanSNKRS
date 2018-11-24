@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Yvelines78",
+    "database": "snkrs",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Yvelines78",
+    "database": "snkrs_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Yvelines78",
+    "database": "snkrs_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
