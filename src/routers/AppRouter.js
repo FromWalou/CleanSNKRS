@@ -31,7 +31,7 @@ export class AppRouter extends React.Component {
     return (
       <BrowserRouter>
         <Fragment>
-          <Header render={props => <header token={token} {...props}/>}/>
+          <Header token={token}/>
           <Switch>
             <Route path='/' component={Home} exact/>
             <Route path='/register' component={Register}/>
